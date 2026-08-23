@@ -1,0 +1,7 @@
+# Runtime
+httpx>=0.27          # async HTTP with pluggable transports
+textual>=0.60        # terminal UI framework (pulls in rich)
+
+# Development
+pytest>=8.0
+pytest-asyncio>=0.23
