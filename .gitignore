@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+journal/
+data/paper_account.json
